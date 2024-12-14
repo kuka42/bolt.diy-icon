@@ -1,4 +1,5 @@
 # bolt.diy-icon
+![preview](https://repository-images.githubusercontent.com/903203626/0b641abe-ceca-4975-b5b7-1f8c91cada02)
 
 This is a custom icon with the characteristic "B", designed for bat/bash shortcut files used with Bolt.DIY to open the app.
 
